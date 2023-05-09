@@ -1,0 +1,3 @@
+.nav-link .title {display:none}
+
+.nav-link.active .title {display: inline-block !important}
